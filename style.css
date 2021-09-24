@@ -6,7 +6,6 @@
 
 body{
 	height: 100%;
-	background-color: hsl(61, 92%, 77%);
   background-image: url(pic2.jpg);
 	box-sizing: border-box;
 }
